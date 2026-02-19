@@ -132,7 +132,7 @@ streamlit run app.py
 ```
 
 here is the link to the app
-<href CreatorMindAI a="https://creator-mind-ai.streamlit.app/"/>
+<href  a="https://creator-mind-ai.streamlit.app/">CreatorMindAI</a>
 
 ---
 
