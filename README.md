@@ -1,0 +1,2 @@
+# CreatorMindAI
+**CreatorMindAI** is an AI-powered content creation platform that generates viral reels, blogs, and ideas using local LLMs via Ollama. It features trend discovery, an AI assistant, and a modern SaaS-style interface, enabling creators to research, learn, and produce high-quality AI content efficiently without relying on paid APIs.
