@@ -1,9 +1,3 @@
-# CreatorMindAI
-Here is a **professional, recruiter-level README.md** for your **CreatorMindAI**.
-Just copy and paste into your `README.md` file on GitHub.
-
----
-
 # CreatorMindAI ✨
 
 **CreatorMindAI** is an AI-powered content creation platform that generates viral reels, blogs, and ideas using local Large Language Models via Ollama. It provides creators, students, and developers with a powerful personal AI assistant for content generation, learning, and research — without relying on paid APIs.
@@ -137,7 +131,12 @@ ollama run llama3
 streamlit run app.py
 ```
 
+here is the link to the app
+<href CreatorMindAI a="https://creator-mind-ai.streamlit.app/"/>
+
 ---
+
+
 
 # 💡 Use Cases
 
@@ -196,4 +195,4 @@ If you like this project, star the repo ⭐
 
 
 
-https://creator-mind-ai.streamlit.app/
+
