@@ -13,3 +13,6 @@
 
 
 <img width="2868" height="1468" alt="image" src="https://github.com/user-attachments/assets/6d903b35-f19b-4f1f-9927-4bdb5bfd6323" />
+
+
+https://creator-mind-ai.streamlit.app/
