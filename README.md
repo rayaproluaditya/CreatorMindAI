@@ -1,6 +1,7 @@
 # CreatorMindAI ✨
 
-**CreatorMindAI** is an AI-powered content creation platform that generates viral reels, blogs, and ideas using local Large Language Models via Ollama. It provides creators, students, and developers with a powerful personal AI assistant for content generation, learning, and research — without relying on paid APIs.
+<a href="https://creator-mind-ai.streamlit.app/" > CreatorMindAI </a> is an AI-powered content creation platform that generates viral reels, blogs, and ideas using local Large Language Models via Ollama. It provides creators, students, and developers with a powerful personal AI assistant for content generation, learning, and research — without relying on paid APIs.
+<img width="2820" height="1460" alt="image" src="https://github.com/user-attachments/assets/6e6fab43-9284-4535-8692-05066cc933ea" />
 
 ---
 
